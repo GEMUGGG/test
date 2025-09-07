@@ -1,0 +1,10 @@
+diff a/src/code.java b/src/code.java	(rejected hunks)
+@@ -1,6 +1,7 @@
+ 
+ public class code {
+ 	public static void main(String  args[]) {
+-	System.out.println("こんに");
++	System.out.println("こんにちは");
++	System.out.println("こんばんわ");
+ 	}
+ }
